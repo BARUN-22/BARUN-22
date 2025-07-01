@@ -1,38 +1,28 @@
-## Hi there 👋
-
 <!--
 **BARUN-22/BARUN-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Barun Kumar Rout</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BARUN-22&color=blue" alt="Profile Views"/>
+</p>
 <h3 align="center">A Passionate Full Stack Developer & Problem Solver from India .</h3>
 
 ---
 
 ### 🔥 About Me
 
-- 🎓 Final Year B.Tech Student | CSE
-- 👨‍💻 Full Stack Developer 
-- 🌱 Currently learning Spring Security & DevOps tools
-- 🥅 2025 Goal: Contribute to open-source & crack top tech interviews
-- 🎮 Fun Fact: I'm a BGMI esports player & cricket lover 🏏
+- 🎓 Final Year B.Tech Student | CSE  
+- 👨‍💻 Full Stack Developer  
+- 🌱 Currently learning Spring Security & DevOps tools  
+- 🥅 2025 Goal: Contribute to open-source & crack top tech interviews  
+- 🎮 Fun Fact: I'm a BGMI esports player & cricket lover 🏏  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BARUN-22&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BARUN-22&theme=tokyonight" height="150"/>
 </p>
 
@@ -50,9 +40,9 @@ Here are some ideas to get you started:
 
 ### 📱 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barun-kumar-rout-7455212)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:routbarunkumar22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/BARUN-22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barun-kumar-rout-7455212)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:routbarunkumar22@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/BARUN-22)  
 
 ---
 
@@ -63,5 +53,3 @@ Here are some ideas to get you started:
 ---
 
 > 💡 *“The idea is not to live forever, but to create something that will.” — Ritesh Agarwal*
-
-
